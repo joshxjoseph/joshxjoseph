@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @joshxjoseph
 - 👀 I’m interested in all things crypto
-- 🌱 I’m currently learning how to build things
-- 💞️ I’m looking to collaborate on projects that enable free markets
 - 📫 How to reach me: joshjoseph.co
 
 <!---
